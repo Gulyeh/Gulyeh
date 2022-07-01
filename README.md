@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300"/>
 </div>
 
+<div id="latest" align="center">
+  <a href="https://github.com/Gulyeh/Vision">
+    <img src="https://img.shields.io/badge/Latest%20Project-green?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/adrian-zyznar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,7 +15,7 @@
   <a href="https://discordapp.com/users/570362301190897714">
     <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/zyznar.adrian@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Discord Badge"/>
+  <img src="https://img.shields.io/badge/zyznar.adrian@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </div>
 
 <div id="counter" align="center">
