@@ -49,7 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" title="Nuget" **alt="Nuget" width="40" height="40"/>&nbsp;
-  <img src="https://nkonev.name/api/image/post/title/7002cc5f-d699-458a-857a-12ca30ef2e59.jpeg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://nkonev.name/api/image/post/title/7002cc5f-d699-458a-857a-12ca30ef2e59.jpeg" title="Postman" **alt="Postman" width="55" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Maya" **alt="Maya" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="DotNet" **alt="DotNet" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
