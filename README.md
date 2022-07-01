@@ -57,6 +57,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://blog.tech-fellow.net/content/images/size/w600/2019/04/asp-net-mvc-1-.jpg" title="MVC"  alt="MVC" width="70" height="40"/>&nbsp;
+  <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" title="Blazor"  alt="Blazor" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFxKap42Rdj2zF8q9W21iVmGASAKRYzXSJ6F--tQDEDGWJS5OfKKb5IB5gC8InYE5o5DA&usqp=CAU" title="WPF"         alt="WPF" width="60" height="40"/>&nbsp;
   <img src="https://repository-images.githubusercontent.com/31335300/a2496c00-23f2-11ea-91a7-97d6e7f18343" title="Prism"  alt="Prism" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
