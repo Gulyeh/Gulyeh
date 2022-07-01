@@ -55,6 +55,7 @@
   <img src="https://czterytygodnie.pl/assets/images/courses/rabbitmq/rabbitmq.png" title="RabbitMQ" **alt="RabbitMQ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://blog.pospieszynski.net/assets/2017-04-23-ef-core/ef-logo.png"  title="Entity Framework" alt="Entity Framework" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://blog.tech-fellow.net/content/images/size/w600/2019/04/asp-net-mvc-1-.jpg" title="MVC"  alt="MVC" width="70" height="40"/>&nbsp;
