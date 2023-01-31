@@ -31,7 +31,7 @@
 ---
 
 <h3>👨‍🎨: About Me :</h3><br/>
-<h4>My name is Adrian. I'am a self taught backend developer from Poland 🇵🇱</h4>
+<h4>My name is Adrian. I'am a self taught backend developer/QA Automation from Poland 🇵🇱</h4>
 <ul>
   <li> 👨‍🎓 Bachelor in 3D Graphic Design</li>
   <li> 👍 Young, creative, 25 years old man</li>
